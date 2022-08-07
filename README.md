@@ -1,3 +1,5 @@
-# express-simple-kjbjzh
+# Fake data API
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/express-simple-kjbjzh)
+This is an experimental project that uses [Express JS](https://expressjs.com/) to
+develop a REST API that generates _fake data_ using some of the publicly available
+data repository that have been modified and saved in [this repository](https://github.com/ProfSchimd/data).
